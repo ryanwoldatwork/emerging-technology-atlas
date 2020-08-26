@@ -1,10 +1,11 @@
 # Emerging Citizen Technology
+
 https://emerging.digital.gov/
 
-
-
 ### Markdown
-Needing a little help with Markdown? [Check out this handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+Needing a little help with Markdown?
+See Federalist's [Additional Resources](https://federalist.18f.gov/documentation/resources/).
 
 
 ### How to Link
@@ -30,13 +31,14 @@ You'll need to add this bit of data to the front-matter to the new page that rea
 
 ```
 redirect_from:
-  - /vrar/
+  - /vr/
 ```
 
 If you have multiple paths, please add them like this:
 
 ```
 redirect_from:
+  - /vr/
   - /vrar/
   - /space-goggles/
 ```
