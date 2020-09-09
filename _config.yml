@@ -54,8 +54,6 @@ navigation:
     url: /connect/
   - text: "Contribute"
     url: /howto/
-  - text: "Meeting Notes & Action Items"
-    url: /meeting-notes/
 - text: "Emerging Technologies for Government Services"
   url: /emerging-tech-gov-services/
 - text: "Our Interagency Initiatives"
